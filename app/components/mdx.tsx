@@ -27,7 +27,7 @@ function Table({ data }) {
 }
 
 function CustomLink(props) {
-  let href = props.href
+  let href = props.href || ''
 
   if (href.startsWith('/')) {
     return (
@@ -49,7 +49,13 @@ function RoundedImage(props) {
 }
 
 function Code({ children, ...props }) {
-  let codeHTML = highlight(children)
+  let codeString =
+    typeof children === 'string'
+      ? children
+      : Array.isArray(children)
+      ? children.join('')
+      : children?.toString?.() ?? ''
+  let codeHTML = highlight(codeString)
   return <code dangerouslySetInnerHTML={{ __html: codeHTML }} {...props} />
 }
 

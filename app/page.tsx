@@ -8,7 +8,7 @@ export default function Page() {
       </h1>
       <p className="mb-8 leading-relaxed">
         I’m the co-founder and CEO of  
-        <a href="https://www.sixtyfour.ai" className="text-orange-400"> Sixtyfour (YC X25)</a>, where we’re building AI agents to help GTM teams sell better and faster to SMBs.
+        <a href="https://www.sixtyfour.ai" className="text-orange-400"> Sixtyfour (YC X25)</a>, where we’re developing AI agents designed to analyze, enrich, and act on people and company data.
       </p>
       <p className="mb-8 leading-relaxed">
         I graduated from UC Berkeley with a degree in Data Science after transferring from UCSD’s Halıcıoğlu Data Science Institute. I’ve been building things since I was 10, and one of my favorite early projects was a  
@@ -32,7 +32,7 @@ export default function Page() {
         In summer 2024, I worked at Whatnot (YC W20), where I built their search spelling correction system, improving how buyers and sellers find products. I also returned full-time in 2025 for about two months and then left after getting into YCombinator.
       </p>
       <p className="mb-8 leading-relaxed">
-        Now at <strong>Sixtyfour</strong>, we’re all-in on AI for sales—helping teams reach more prospects, close deals faster, and stand out from the competition.
+        Now at <strong>Sixtyfour</strong>, we’re all-in on an AI orchestration engine for teams to reach more prospects, close deals faster, hire and market better, and stand out from the competition.
       </p>
       <div className="my-8">
         <BlogPosts />
