@@ -29,7 +29,7 @@ export default function Page() {
         <a href="https://youtu.be/HSOmKuLyPHs" className="text-orange-400"> Dart</a>, where we built one of the first fully conversational voice AI agents capable of automating customer support with near-human accuracy.
       </p>
       <p className="mb-8 leading-relaxed">
-        In summer 2024, I worked at Whatnot (YC W20), where I built their search spelling correction system, improving how buyers and sellers find products. I also returned full-time in 2025 for about two months and then left after getting into YCombinator.
+        In summer 2024, I worked at Whatnot (YC W20), where I built their search spelling correction system, improving how buyers and sellers find products. I also returned full-time in 2025 for about two months and then left after getting into Y Combinator.
       </p>
       <p className="mb-8 leading-relaxed">
         Now at <strong>Sixtyfour</strong>, we’re all-in on an AI orchestration engine for teams to reach more prospects, close deals faster, hire and market better, and stand out from the competition.
