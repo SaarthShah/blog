@@ -22,7 +22,7 @@ export default function Page() {
         <a href="https://youtu.be/_qfl7btaUGI" className="text-orange-400"> Socale</a>, a college social network at UCSD that took off—1,000 users, 30,000 sessions, and 13,000 messages in just two quarters. We ultimately shut it down because retention in consumer social is hard.
       </p>
       <p className="mb-8 leading-relaxed">
-        In summer 2023, I joined Deepgram (YC W16), where I built full-stack tools to scale enterprise partnerships and AI-powered onboarding. After that, my friend Eric and I built a Shopify chatbot at Internalize that combined LLMs with recommendation engines—we sold the company in fall 2023.
+        In summer 2023, I joined Deepgram (YC W16), where I built full-stack tools around live event transcription and sentiment analysis around Youtube videos. After that, my friend Eric and I built a Shopify chatbot at Internalize that combined LLMs with recommendation engines—we sold the company in fall 2023.
       </p>
       <p className="mb-8 leading-relaxed">
         In 2024, I also started  
