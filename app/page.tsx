@@ -32,7 +32,7 @@ export default function Page() {
         In summer 2024, I worked at Whatnot (YC W20), where I built their search spelling correction system, improving how buyers and sellers find products. I also returned full-time in 2025 for about two months and then left after getting into Y Combinator.
       </p>
       <p className="mb-8 leading-relaxed">
-        Now at <strong>Sixtyfour</strong>, we’re all-in on building the most accurate system for research on people and companies—specialized agents that turn a sparse input like a name or an email into fresh, auditable intelligence. It’s independently validated as the most accurate system on the public recon benchmark, and teams in fraud, risk, identity, and diligence run on us precisely where a wrong answer is costly.
+        Now at <strong>Sixtyfour</strong>, we’re building the most accurate system for research on people and companies. Teams in fraud, risk, identity, and diligence run on us where a wrong answer is costly.
       </p>
       <div className="my-8">
         <BlogPosts />
